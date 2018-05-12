@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24947'
     url: http://www.gutenberg.org/2009/agents/24947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21877#Woodrow-Wilson-and-the-World-WarA-Chronicle-of-Our-Own-Times.
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-06-20'
 gutenberg_type: Text
